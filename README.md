@@ -1,7 +1,7 @@
 # BeltConverter
 
 Usage, examples and more:
-http:software.fimbinger.at
+http://software.fimbinger.at/
 
 Convert CAD belt models (meshed as STL-File) for the use in ThreeParticle/CAE by Becker3D.
 
